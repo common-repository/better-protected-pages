@@ -1,0 +1,44 @@
+.password {
+  background: url(images/background.png) no-repeat top left;
+  height:130px;
+  width:260px;
+  padding: 80px 20px 20px 20px !important;
+  margin: 20px auto;
+  clear:both;
+}
+
+.passwordentry {
+  text-align:left;
+  width:250px;
+}
+
+.password p {
+  padding:0;
+}
+
+.password label {
+  text-align:left;
+  width:280px;
+}
+
+.passwordphrase {
+  padding-bottom:20px;
+  width: 180px;
+}
+
+.passwordsubmit {
+  font-weight:bold;
+  margin:10px 0 0 80px;
+  padding:5px;
+  text-align:center;
+  width:100px;
+}
+
+.passwordsubmit:hover {
+  cursor:pointer;
+} 
+
+.relockbutton {
+  float:right;
+  clear:both;
+}
